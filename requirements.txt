@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+scipy
+tqdm
+seaborn
+sklearn
+plotly
+statsmodels
+torch
+
+
+

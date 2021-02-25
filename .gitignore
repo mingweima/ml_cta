@@ -126,7 +126,7 @@ dmypy.json
 .pyre/
 
 *.csv
-*.txt
+# *.txt
 *.DS_Store
 *.out
 
