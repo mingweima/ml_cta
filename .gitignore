@@ -141,3 +141,4 @@ hejia*.csv
 
 !/data/**
 
+data/.DS_Store

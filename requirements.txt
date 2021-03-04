@@ -8,6 +8,7 @@ sklearn
 plotly
 statsmodels
 torch
+jupyterlab==3.0.6
 
 
 
